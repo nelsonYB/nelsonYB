@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm a Systems Engineering student aspiring to have a job as a Full Stack developer</h1>
-<h3 align="center">A passionate backend developer from Nicaragua</h3>
+<h3 align="center">I am passionate about learning more about backend development.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
