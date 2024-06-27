@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Systems Engineering student</h1>
+<h1 align="center">Hi 👋, I'm a Systems Engineering</h1>
 <h3 align="center">I am passionate about learning more about backend development.</h3>
 
 
